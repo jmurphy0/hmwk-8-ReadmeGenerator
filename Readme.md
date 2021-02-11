@@ -24,7 +24,7 @@
   install with i npm
 
   ## Usage 
-  This will overwrite any exsiting readme files in root dir. Please see the video linked hmwk-8-ReadmeGenerator/Develop/assets/hmwk8Readme.mov
+  This will overwrite any exsiting readme files in root dir. Please see the video linked https://github.com/jmurphy0/hmwk-8-ReadmeGenerator/blob/master/Develop/assets/hmwk8Readme.mov?raw=true
 
   ## Testing 
   test in node
