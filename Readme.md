@@ -16,6 +16,8 @@
   ## Author 
   Name: J. Murphy 
   GitHub: jmurphy0
+  repo link: https://github.com/jmurphy0/hmwk-8-ReadmeGenerator.git
+  iso link: https://jmurphy0.github.io/hmwk-8-ReadmeGenerator/
 
   ## Description 
   This project generates a read me file based on user input.
