@@ -42,3 +42,4 @@
   ## Video
 
 ![alt text](Develop/assets/hmwk8Readme.mov) 
+https://github.com/jmurphy0/hmwk-8-ReadmeGenerator/blob/master/Develop/assets/hmwk8Readme.mov?raw=true
